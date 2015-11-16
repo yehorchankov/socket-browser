@@ -1,0 +1,6 @@
+C:\Users\Egor\Documents\Visual Studio 2013\Projects\BU_STUDY\Lesson 2\SocketsDel\SocketsDel\bin\Debug\SocketsDel.exe.config
+C:\Users\Egor\Documents\Visual Studio 2013\Projects\BU_STUDY\Lesson 2\SocketsDel\SocketsDel\bin\Debug\SocketsDel.exe
+C:\Users\Egor\Documents\Visual Studio 2013\Projects\BU_STUDY\Lesson 2\SocketsDel\SocketsDel\bin\Debug\SocketsDel.pdb
+C:\Users\Egor\Documents\Visual Studio 2013\Projects\BU_STUDY\Lesson 2\SocketsDel\SocketsDel\obj\Debug\SocketsDel.csprojResolveAssemblyReference.cache
+C:\Users\Egor\Documents\Visual Studio 2013\Projects\BU_STUDY\Lesson 2\SocketsDel\SocketsDel\obj\Debug\SocketsDel.exe
+C:\Users\Egor\Documents\Visual Studio 2013\Projects\BU_STUDY\Lesson 2\SocketsDel\SocketsDel\obj\Debug\SocketsDel.pdb

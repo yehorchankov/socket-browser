@@ -1,0 +1,33 @@
+﻿#queryString, #queryString input {
+    border-radius: 10px;
+    color: transparent;
+    transition: all 0.3s ease-out;
+}
+
+#queryString input {
+    visibility: hidden;
+}
+
+#queryString:hover, #queryString:hover input {
+    visibility: visible;
+    color: black;
+}
+
+#queryString:hover {
+    background-color: #00fa9a;
+}
+
+#round {
+    position: fixed;
+    top: 30px;
+    height: 3em;
+    width: 3em;
+    right: 15%;
+    background-color: #8b008b;
+    border-radius: 100%;
+    transition: all 0.1s ease-in;
+}
+
+#round:hover {
+    background-color: transparent;
+}

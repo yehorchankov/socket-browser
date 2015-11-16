@@ -1,0 +1,5 @@
+C:\Users\Egor\Documents\Visual Studio 2013\Projects\BU_STUDY\Lesson 2\DZ_1\DZ_1\bin\Debug\DZ_1.dll
+C:\Users\Egor\Documents\Visual Studio 2013\Projects\BU_STUDY\Lesson 2\DZ_1\DZ_1\bin\Debug\DZ_1.pdb
+C:\Users\Egor\Documents\Visual Studio 2013\Projects\BU_STUDY\Lesson 2\DZ_1\DZ_1\obj\Debug\DZ_1_Lib.csprojResolveAssemblyReference.cache
+C:\Users\Egor\Documents\Visual Studio 2013\Projects\BU_STUDY\Lesson 2\DZ_1\DZ_1\obj\Debug\DZ_1.dll
+C:\Users\Egor\Documents\Visual Studio 2013\Projects\BU_STUDY\Lesson 2\DZ_1\DZ_1\obj\Debug\DZ_1.pdb
